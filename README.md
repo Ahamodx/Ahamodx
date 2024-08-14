@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm A6</h1>
+<h1 align="center">Hi 👋, I'm AHAMOD</h1>
 <h3 align="center">A passionate about autonomus robot and alll kind of Autonomus Object</h3>
 
 - 🔭 I’m currently working on **autonomus robot**
